@@ -1,0 +1,13 @@
+Батько -  ator
+Мати - etem
+Батьки - etekosi
+Брат - rika
+Сестра - reike
+Син - jaka
+Дочка - jeike
+Внук - etjaka
+Внучка - etjeike
+Дідусь - atorke
+Бабуся - etemke
+
+Сім'я - atorina

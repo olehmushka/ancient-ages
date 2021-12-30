@@ -1,0 +1,67 @@
+1 - ri
+2 - ru
+3 - um
+4 - kat
+5 - pal
+6 - seb
+7 - ket
+8 - oli
+9 - nen
+10 - pari => 10 - pa => 10*1 - pari
+11 - riri
+12 - ruru
+13 - umma
+14 - katipari
+15 - palpari
+16 - sebipari
+17 - ketipari
+18 - olipari
+19 - nenipari
+20 - paru => 10 - pa => 10*2 - paru
+21 - paru ri
+22 - paru ru
+23 - paru um
+24 - paru kat
+25 - paru pal
+26 - paru seb
+27 - paru ket
+28 - paru oli
+29 - paru nen
+30 - paum
+40 - pakat
+50 - papal
+60 - paseb
+70 - paket
+80 - paoli
+90 - panen
+100 - sari => 100 - sa => 100*1 - sari
+101 - sari ri
+110 - sari pari
+111 - sari riri
+200 - saru
+300 - saum
+400 - sakat
+500 - sapal
+600 - saseb
+700 - saket
+800 - saoli
+900 - sanen
+1000 - kari => 1000 - ka => 1000*1 - kari
+2000 - karu
+3000 - kaum
+4000 - kakat
+5000 - kapal
+6000 - keseb
+7000 - kaket
+8000 - kaoli
+9000 - kanen
+10_000 - kapari => 1000 - ka => 1000*10 - kapari
+100_000 - kapari => 1000 - ka => 100*100 - kasari
+
+1_000_000 - balari => 1_000_000 - bala => 1*1_000_000 - balari
+10_000_000 - balapari => 1_000_000 - bala => 10*1_000_000 - balapari
+100_000_000 - balasari => 1_000_000 - bala => 100*1_000_000 - balasari
+
+1_000_000_000 - barari => 1_000_000_000 - bara => 1*1_000_000_000 - barari
+10_000_000_000 - barapari => 1_000_000_000 - bara => 10*1_000_000_000 - barapari
+100_000_000_000 - barasari => 1_000_000_000 - bara => 100*1_000_000_000 - barasari

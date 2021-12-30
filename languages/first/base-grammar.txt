@@ -1,0 +1,87 @@
+Base Grammar
+
+структура речення
+підмет обставина присудок
+Subject Object Verb
+
+без неозначеного артикля
+але є означений артиль в кінці слова -iu
+
+моножина створюється закінченням і зміною кореня
+  закінчення -i, -si
+  зміна кореня
+
+роди
+  є тільки чоловічний і жіночий роки
+  закінчення чоловічого роду
+    - or
+    - ar
+    - a
+    - u
+    - al
+    - lm
+    - do
+  закінчення жіночого роду
+    - e
+    - em
+    - er
+    - el
+
+сполічники
+  "і" - el
+
+в знак принадежності іменника
+  робиться закінчення
+    -ma (мій/моя (чол))
+    -me (мій/моя (жін))
+    -te/mte (твій)
+    -ta/mta (твоя)
+    -sa/msa (його)
+    -se/mse (її)
+    для приналежності до множини не використовуються закінчення
+  або використовується відповідний присвійний займенник
+
+бути
+  я(чол) є - Ei lak/Eila
+  я(жін) є - Ei lek/Eile
+  ти(чол) є - Tau lak/Taula
+  ти(жін) є - Tau lek/Taule
+  ви є - Tai lok/Tailu
+  ми є - Aia lok/Aialu
+  він є - Sa lak/Sala
+  вона є - Se lek/Sele
+  вони є - Soi loki
+  вони(чол) є - Sai laki
+  вони(жін) є - Sei leki
+
+мати/володіти
+  я(чол) маю - Ei ma/Eimma
+  я(жін) маю - Ei me/Eimme
+  ти(чол) маєш - Tau ma/Taumma
+  ти(жін) маєш - Tau me/Taumma
+  ви маєте - Tai mo/Taimmo
+  ми маємо - Aia mo/Aiammo
+  він має - Sa ma/Samma
+  вона має - Se me/Semme
+  вони мають - Soi mo/Soimmo
+  вони(чол) мають - Sai ma/Saimma
+  вони(жін) мають - Sei me/Saimma
+
+відмінки
+                              однина                            множина
+  Nominative (називний)  -    без змін                      -    без змін       
+  Vocative (кличний)     -    подвоєння                     -    подвоєння
+                            останнього голосного звуку      останн
+  Accusative (знайхдний) -  додавання -m
+                             вкінці слова
+  Genetive (родовий)     -  додавання -u
+                             вкінці слова
+  Dative (давальний)     - додавання -um
+                             вкінці слова
+    приклади
+           adma      ator     fedke     fedkei
+    nom.   adma      ator     fedke     fedkei
+    voc.   admaa     atoor    fedkee    fedkeeri
+    acc.   admam     atorm    fedkem    fedkemi
+    gen.   admau     atoru    fedku     fedkui
+    dat    admaum    atorum   fedkeum   fedkeumi
