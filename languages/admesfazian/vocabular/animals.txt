@@ -1,9 +1,21 @@
+A
+Airabke - птах
+
 B
 baame - корова
 baalu - бик
+blaira - ворон
+
+C
+chamel - курка
+czamal - півень
+
+D
+dvalne - черепаха
 
 G
 gaapikoi - мишина зграя
+gastarika - ссавець
 
 I
 iskinpika - кролик
@@ -13,8 +25,16 @@ iskinkikoi - кролики
 K
 katu - кіт(чол)
 kote - кішка(жін)
+kazuuru - заєць
+
+L
+listerel - ящірка
+
+M
+marruire - акула
 
 P
+peruirsel - окунь
 pika - миша(чол)
 pike - миша(жін)
 pikoi - миші
@@ -22,25 +42,19 @@ pikoi - миші
 R
 raikal - кінь
 raikel - кобила
+rika
+
+S
+sokiene - качка
+stalel - змія
 
 T
 tchaka - собака(чол)
 tkache - собака(жін)
 
+U
+usaira - голуб
+uirabke - риба
 
-
-kazuuru - заєць
-chamel - курка
-czamal - півень
-sokiene - качка
-dvalne - черепаха
-listerel - ящірка
-stalel - змія
-ворона
-голуб
-птах
-савець
-риба
-акула
-окунь
-короп
+Z
+zoluiral - короп

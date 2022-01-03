@@ -1,0 +1,26 @@
+B
+batzak - чорний
+
+F
+flavek - yellow
+
+G
+gorak - червоний
+
+H
+hersuk - зелений
+herseluk - салатовий
+
+L
+larnak - помаранчевий
+
+S
+surgornuk - рожевий
+surlarnuk - коричневий
+
+U
+uirek - синій
+uirselek - блакитний
+
+Z
+zurak - білий

@@ -1,6 +1,9 @@
 A
 Adma - людина/фізична особа
 Admari - народ
+aire - повітря
+airare - вітер
+astacz
 
 B
 bride(i) - людина/людська істота
@@ -14,3 +17,16 @@ Galdari - ліс
 
 H
 harundo - гордість/честь
+
+L
+lafe - земля
+lafure - глина
+
+R
+resfeza - свобода
+
+S
+sara - вогонь
+
+U
+uira - вода
