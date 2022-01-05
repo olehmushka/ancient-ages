@@ -1,0 +1,30 @@
+names
+
+rovdalafa
+	Vizsarman
+	Dorat
+	Zazal
+	Suara
+	Kiuse
+	Tchaku
+	Vanjak
+	Yomviz
+	- endadmari
+		Kamila
+		Patrola
+	- uirmadmari
+		Rakvasel
+		Sreda
+		Barka
+		Somma
+		Somme
+		Klausa
+	- harzadmari
+		Gorkal
+		Gorkel
+	- kostadmari
+bordalafa
+dazdalafa
+korak tovlafasi
+undtovlafa
+katitovlafasi

@@ -1,0 +1,40 @@
+geography
+
+A
+amonda - гора
+
+B
+bailel - долина
+
+V
+valza - місто
+veze - південь
+
+D
+dayra - держава/королівство
+dayradma - володар держави/король
+dalafa - земля як територія
+
+E
+ende - захід
+
+G
+gaasuirmel - океан
+
+K
+kostalza -  узбережжя
+
+N
+naike - схід
+
+S
+sirde - річка/струмок/напрямок
+
+T
+tovlafa/tovlafasi - острів/острови
+
+U
+uirmel - море
+
+Y
+yelme -північ

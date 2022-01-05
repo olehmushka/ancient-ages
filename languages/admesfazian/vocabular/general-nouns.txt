@@ -3,10 +3,12 @@ Adma - людина/фізична особа
 Admari - народ
 aire - повітря
 airare - вітер
-astacz
 
 B
 bride(i) - людина/людська істота
+
+V
+vizsara - друг
 
 F
 Fedke(i) - дерево
@@ -17,9 +19,10 @@ Galdari - ліс
 
 H
 harundo - гордість/честь
+harza - пісок
 
 L
-lafe - земля
+lafe - земля як грунт
 lafure - глина
 
 R

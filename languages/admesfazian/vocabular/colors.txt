@@ -1,8 +1,11 @@
 B
 batzak - чорний
 
+D
+dazak/dazek/dazik - темний/темна/темні
+
 F
-flavek - yellow
+flavak - yellow
 
 G
 gorak - червоний
@@ -19,8 +22,8 @@ surgornuk - рожевий
 surlarnuk - коричневий
 
 U
-uirek - синій
-uirselek - блакитний
+uirak - синій
+uirselak - блакитний
 
 Z
 zurak - білий

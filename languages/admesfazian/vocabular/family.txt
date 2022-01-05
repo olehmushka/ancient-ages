@@ -1,13 +1,19 @@
-Батько -  ator
-Мати - etem
-Батьки - etekosi
-Брат - rika
-Сестра - reike
-Син - jaka
-Дочка - jeike
-Внук - etjaka
-Внучка - etjeike
-Дідусь - atorke
-Бабуся - etemke
+A
+ator - батько
+atorke - Дідусь
+atorina - Сім'я
 
-Сім'я - atorina
+E
+etem - мати
+etemke - Бабуся
+etekosi - Батьки
+etjaka - Внук
+etjeike - Внучка
+
+J
+jaka - Син
+jeike - Дочка
+
+R
+rika - Брат
+reike - Сестра

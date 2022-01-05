@@ -2,7 +2,7 @@ K
 kastor - священник
 
 S
-sitime - жертва(чол)
+sitima - жертва(чол)
 sitime - жертва(жін)
 
 Y

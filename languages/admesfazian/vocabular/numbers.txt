@@ -1,5 +1,5 @@
-1 - ri
-2 - ru
+1 - ri, перший rizrak/rizrek/rizrik - перший/перша/перші
+2 - ru, другий ruzrak/ruzrek/ruzrik - другий/друга/другі
 3 - um
 4 - kat
 5 - pal
