@@ -10,6 +10,9 @@ bride(i) - людина/людська істота
 V
 vizsara - друг
 
+E
+eguska - сонце
+
 F
 Fedke(i) - дерево
 

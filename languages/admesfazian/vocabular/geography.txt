@@ -11,8 +11,6 @@ valza - місто
 veze - південь
 
 D
-dayra - держава/королівство
-dayradma - володар держави/король
 dalafa - земля як територія
 
 E
@@ -20,6 +18,10 @@ ende - захід
 
 G
 gaasuirmel - океан
+
+H
+hirvalza - столиця
+harmel - пісок
 
 K
 kostalza -  узбережжя
@@ -32,6 +34,7 @@ sirde - річка/струмок/напрямок
 
 T
 tovlafa/tovlafasi - острів/острови
+tlaka - сонце (арх.)
 
 U
 uirmel - море
