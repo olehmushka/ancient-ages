@@ -5,3 +5,6 @@ avets - лев
 
 B
 biet - вовк
+
+N
+nadre - змія

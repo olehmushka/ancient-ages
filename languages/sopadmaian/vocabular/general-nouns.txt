@@ -3,9 +3,19 @@ general-nouns
 A
 Abbud - держава
 
+B
+byork - гора
+
 E
 ellan - розумне дерево
 ellen - дерево
+
+G
+glof - стрімка скеля/бескид/круча
+
+K
+karsed - дім
+kombad - долина
 
 M
 mertsand - сонце
