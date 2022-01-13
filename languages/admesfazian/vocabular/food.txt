@@ -1,6 +1,6 @@
 A
-Akzate - персик
-Akzame - слива
+akzate - персик
+akzame - слива
 
 D
 dora - хліб
@@ -24,7 +24,7 @@ pestei - овочі
 paszlakaten - масло
 
 U
-Uolka - вода
+uolka - вода
 
 Z
 zazalai - фрукти
