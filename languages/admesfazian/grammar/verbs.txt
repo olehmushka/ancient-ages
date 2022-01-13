@@ -1,0 +1,37 @@
+verbs
+
+
+Часи дієслів
+неозачена форма старо минулий      минулий      теперішній     майбутній
+sorto           da sortus          sortus       sorto          sortou 
+lak.            da lakus.          lakus.       lak.           laku
+
+
+!!!!
+бути                            старо минулий            минулий             теперішній       майбутній
+  я(чол) є - Ei lak/Eila        Ei da lakus/Eidalaus     Ei lakus/Eilaus     Ei lak/Eila      Ei laku/Eilau
+  я(жін) є - Ei lek/Eile        Ei da lekus/Eidaleus     Ei lekus/Eileus     Ei lek/Eile      Ei leku/Eileu
+  ти(чол) є - Tau lak/Taula     Tau da lakus/Taudalaus   Tau lakus/Taulaus   Tau lak/Taula    Tau laku/Taulau
+  ти(жін) є - Tau lek/Taule     Tau da lekus/Taudaleus   Tau lakus/Tauleus   Tau lak/Taule    Tau laku/Tauleu
+  ви є - Tai lok/Tailu          Tai da lokus/Taidaluus   Tai lokus/Tailuus   Tai lok/Tailu    Tai loku/Tailuu
+  ми є - Aia lok/Aialu          Aia da lokus/Aiadaluus   Aia lokus/Aialuus   Aia lok/Aialu    Aia loku/Aialuu
+  він є - Sa lak/Sala           Sa da lakus/Sadalaus     Sa lakus/Salaus     Sa lak/Sala      Sa laku/Salau
+  вона є - Se lek/Sele          Se da lekus/Sedaleus     Se lekus/Seleus     Se lek/Sela      Se leku/Seleu
+  вони є - Soi loki             Soi da lokius            Soi lokius          Soi loki         Soi lokiu
+  вони(чол) є - Sai laki        Sai da lakius            Sai lakius          Sai laki         Sai lakiu
+  вони(жін) є - Sei leki        Sei da lekius            Sei lekius          Sei leki         Sei lekiu
+
+
+мати/володіти                         старо минулий            минулий                теперішній       майбутній
+  я(чол) маю - Ei ma/Eimma            Ei da maus               Ei maus/Eimmaus        Ei ma/Eimma      Ei mau/Eimmau
+  я(жін) маю - Ei me/Eimme            Ei da meus               Ei meus/Eimmeus        Ei me/Eimme      Ei meu/Eimmeu
+  ти(чол) маєш - Tau ma/Taumma        Tau da maus              Tau maus/Taummaus      Tau ma/Taumma    Tau mau/Taummau
+  ти(жін) маєш - Tau me/Taumma        Tau da meus              Tau meus/Taummeus      Tau me/Taumme    Tau meu/Taummeu
+  ви маєте - Tai mo/Taimmo            Tai da mous              Tai mous/Taimmous      Tai mo/Taimmo    Tai mou/Taimmou
+  ми маємо - Aia mo/Aiammo            Aia da mous              Aia mous/Aiammous      Aia mo/Aiammo    Aia mou/Aiammou
+  він має - Sa ma/Samma               Sa da maus               Sa maus/Sammaus        Sa ma/Samma      Sa mau/Sammau
+  вона має - Se me/Semme              Se da maus               Sa maus/Sammaus        Sa ma/Samma      Sa mau/Sammau
+  вони мають - Soi mo/Soimmo          Soi da mous              Soi mous/Soimmous      Soi mo/Soimmo    Soi mou/Soimmou
+  вони(чол) мають - Sai ma/Saimma     Sai da maus              Sai maus/Saimmaus      Sai ma/Saimma    Sai mau/Saimmau
+  вони(жін) мають - Sei me/Saimma     Sei da meus              Sei meus/Seimmeus      Sei me/Seimme    Sei meu/Seimmeu
+

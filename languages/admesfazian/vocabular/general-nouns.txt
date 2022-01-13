@@ -3,15 +3,23 @@ Adma - людина/фізична особа
 Admari - народ
 aire - повітря
 airare - вітер
+amilare - безодня
+asse - початок
+azal - поверхня
 
 B
 bride(i) - людина/людська істота
+berra/berre/berri - чужинець/чужинка/чужинці
 
 V
 vizsara - друг
 
+D
+dazza - темрява
+
 E
 eguska - сонце
+erra - походження
 
 F
 Fedke(i) - дерево
@@ -20,6 +28,9 @@ G
 Galda - дерево
 Galdari - ліс
 
+J
+jarra - корінь
+
 H
 harundo - гордість/честь
 harza - пісок
@@ -27,12 +38,23 @@ harza - пісок
 L
 lafe - земля як грунт
 lafure - глина
+lurula - земля як видимий світ/планета
+
+P
+piture - розділ/глава/частина
 
 R
 resfeza - свобода
 
 S
 sara - вогонь
+sortar/sorter - створений/створена
 
 U
 uira - вода
+uirula - вода (як глиба води/як океан)
+
+Z
+zerana - небо (те що над нами)
+zerula - небеса (небо як рай)
+zurra - світло
