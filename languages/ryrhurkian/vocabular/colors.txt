@@ -1,0 +1,30 @@
+colors
+
+A
+azhji - червоний
+atweji - оранджевий
+
+B
+baanarji - фіолетовий
+baramji - салатовий
+
+E
+ekunji - синій
+
+Y
+ytunji - блакитний
+
+K
+karji - білий
+
+Nh
+nhemji - коричневий
+
+P
+pentuji - жовтий
+
+Rh
+rhamji - зелений
+
+Sz
+szurji - чорний

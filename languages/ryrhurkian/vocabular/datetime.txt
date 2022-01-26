@@ -1,0 +1,19 @@
+datetime
+
+V
+vyda - ніч
+
+I
+iri - день
+
+K
+kuda - рік
+
+M
+mhekudu - місяць (сукупність днів)
+
+Rh
+rhame - ранок
+
+W
+webaa - вечір

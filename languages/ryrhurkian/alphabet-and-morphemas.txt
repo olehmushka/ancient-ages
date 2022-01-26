@@ -1,0 +1,64 @@
+alphabet-and-morphemas
+
+a
+b
+v
+h - укр "Г"
+g - укр "Ґ"
+d
+e
+zh - ð
+j - укр "Й"
+y
+i
+k
+m
+mh - m̥
+n
+nh - n̥
+p
+r
+rh - ɣ
+s
+sz - укр "Ш"
+t
+u
+w
+ch - укр "Х"
+
+
+adr
+azh
+ba
+baa
+be
+vy
+da
+dr
+dru
+dra
+ek
+zha
+zhe
+rha
+ym
+yt
+irh
+ka
+ky
+ki
+kra
+kwe
+ku
+me
+ne
+nhe
+ra
+ry
+ru
+we
+twe
+ty
+udr
+cha
+char
