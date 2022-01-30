@@ -1,0 +1,50 @@
+names-male
+
+A
+Abersin - aber - море => моряк
+Averin - aver - вогонь => подібний до вогню
+
+B
+Bamdin - bam - дорога => подорожуючий
+
+H
+Hamdir - ham - голом, dir - голова => той, в кого захищена голова
+Hemren - hem - шия, ren(ji) - незламний/твердий/незганний => той, кого не схилити
+Henturn
+
+G
+Gregrit
+
+D
+Durvin
+
+J
+Juserion
+
+I
+Ingergir
+Ingkas
+
+K
+Kentevar
+
+M
+Marjeras
+
+N
+Nimdar
+
+P
+Perkidar
+
+R
+Radkinur
+Rejtjen
+Rubtur
+
+S
+Sannar
+
+T
+Tanwin
+Tyramar
