@@ -8,43 +8,44 @@ B
 Bamdin - bam - дорога => подорожуючий
 
 H
-Hamdir - ham - голом, dir - голова => той, в кого захищена голова
+Hamdir - ham - шолом, dir - голова => той, в кого захищена голова
 Hemren - hem - шия, ren(ji) - незламний/твердий/незганний => той, кого не схилити
-Henturn
+Henturn - hen(ji) - бачучий, turn - доля => той, хто бачить долю (майбутнє)
 
 G
-Gregrit
+Gregrit - greg - садівник => садівник
 
 D
-Durvin
+Durvin - dur(ji) - темний, vin - погляд  => той, у кого загадковий/незрозумілий/лихий погляд
 
 J
-Juserion
+Juserion - juser - вогонь => подібний до вогню/палаючий
 
 I
-Ingergir
-Ingkas
+Ingergir - inger - повертатися, gir - дім  => той, що повернувся додому
+Ingikas - ingik - мандрувати  => мандрівник
 
 K
-Kentevar
+Kentevar - kentev - співати => співець/оповідач
+Kunang - kunji - синій, anga - кров => синьої крові/шляхетний
 
 M
-Marjeras
+Marjeras - mar - слава, jer(ji) - достойний  => достойний слави
 
 N
-Nimdar
+Nimdar - nim - схід, dar - сонце => той, хто є зі сходу
 
 P
-Perkidar
+Perkidar - perki - захід, dar - сонце =>  той, хто є із заходу
 
 R
-Radkinur
-Rejtjen
-Rubtur
+Radkinur - radkin - мечник => мечник
+Rejtjen - rej - смерть => безсмертний
+Rubtur - rub(aji) - важкий, tur - сокира => той, хто володіє важкою сокирою
 
 S
-Sannar
+Sannar - sann(ji) - уважний/зосереджений  => уважний/зосереджений
 
 T
-Tanwin
-Tyramar
+Tanwin - tan(ji) - карий, win - око => кароокий
+Tyramar - tyra - боротися, mar - слава  => борець за славу

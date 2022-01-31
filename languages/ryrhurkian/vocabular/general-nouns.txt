@@ -2,15 +2,29 @@ general-nouns
 
 A
 adre - повітря
+airdare - вітер
 amidare - безодня
 assar - поверхня
 
+B
+bam - дорога
+basad - вітер (потужний вітер)
+
+V
+vin - погляд
+
+H
+ham - шолом
+hem - шия
+
 G
+gir - дім
 gwadr - глина
 
 D
 dazhara - темрява
 dazhme - початок
+dir - голова
 
 E
 edmi - народ
@@ -20,12 +34,21 @@ Zh
 zharhana - небо (те що над нами)
 zharhuva - небеса (небо як рай)
 
+J
+juser - вогонь
+
 I
 isa - ім'я
+
+M
+mar - слава
 
 P
 passadr - початок
 peter - розділ/глава/частина
+
+R
+rej - смерть
 
 Rh
 rhave - земля як грунт
@@ -37,6 +60,15 @@ surra - світло
 Sz
 szadre - вітер
 
+T
+tur - сокира
+turn - доля
+
+W
+win - око
+
 U
 udara - вода
 usa - назва/найменування
+
+
